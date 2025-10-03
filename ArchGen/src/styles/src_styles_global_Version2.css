@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Inter', 'Arial', sans-serif;
+  background: #f3f6fa;
+  color: #222;
+}
+h1, h2, h3 {
+  color: #294fa5;
+}
+a {
+  color: #4676fa;
+}
